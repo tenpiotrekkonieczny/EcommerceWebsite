@@ -1,0 +1,20 @@
+{
+  "name": "ecommercewebsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "lint": "eslint ./main.js",
+		"lint:fix": "eslint --fix ./main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tenpiotrekkonieczny/EcommerceWebsite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tenpiotrekkonieczny/EcommerceWebsite/issues"
+  },
+  "homepage": "https://github.com/tenpiotrekkonieczny/EcommerceWebsite#readme"
+}
